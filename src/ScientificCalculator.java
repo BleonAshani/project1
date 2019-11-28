@@ -1,6 +1,7 @@
 public class ScientificCalculator {
 
     public double tan(double num1){
+
         return Math.tan(num1);
     }
 
