@@ -11,7 +11,7 @@ public class calculator {
 
         CalculatorGUI calc = new CalculatorGUI();
 
-        //code adapted from https://www.youtube.com/watch?v=oFs7FPpf5-w and got help from Conor Hartigan (Software Dev 2nd year)
+        /*//code adapted from https://www.youtube.com/watch?v=oFs7FPpf5-w and got help from Conor Hartigan (Software Dev 2nd year)
         try {
             //song gotten from https://www.youtube.com/watch?v=VVggXZPCuYw
             FileInputStream musicToBePlayed = new FileInputStream("music/song.mp3");
@@ -30,7 +30,7 @@ public class calculator {
         }
         catch (JavaLayerException e) {
             System.out.println("Error! Java Layer Exception!!");
-        }
+        }*/
 
 
 
